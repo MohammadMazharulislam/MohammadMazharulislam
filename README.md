@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadMazharulislam
 - 👀 I’m interested in problem solvig
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on basic java project
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on basic JS project
 - 📫 How to reach me email:mohammadmazharulislamhridoy@gmail.com
 
 <!---
